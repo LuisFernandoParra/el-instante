@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    /* Deja libres la cabecera y el pie fijos al saltar con el teclado. */
+    scroll-padding-top: 5rem;
+    scroll-padding-bottom: 3.5rem;
+  }
+
+  body {
+    @apply bg-papel font-sans text-cuerpo text-tinta antialiased;
+  }
+
+  :focus-visible {
+    @apply outline outline-2 outline-offset-2 outline-tinta;
+  }
+}
+
+@layer utilities {
+  .scrollbar-none {
+    scrollbar-width: none;
+  }
+
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "feature": "tragedia-en-nochebuena-carro-barranco-neiva",
+  "latest": {
+    "real": [
+      "camara-del-barranco-objeto-sin-explicacion",
+      "claudia-salieron-por-veinte-minutos"
+    ],
+    "filler": [
+      "f02",
+      "f04",
+      "f06"
+    ]
+  },
+  "blocks": [
+    {
+      "title": "Regionales",
+      "filler": [
+        "f01",
+        "f09",
+        "f11"
+      ]
+    },
+    {
+      "title": "Gente",
+      "filler": [
+        "f03",
+        "f12",
+        "f13"
+      ]
+    },
+    {
+      "title": "Economía",
+      "filler": [
+        "f10",
+        "f14",
+        "f15"
+      ]
+    },
+    {
+      "title": "Le puede interesar",
+      "filler": [
+        "f05",
+        "f07",
+        "f08"
+      ]
+    },
+    {
+      "title": "Opinión",
+      "opinion": [
+        "o1",
+        "o2",
+        "o3"
+      ]
+    }
+  ]
+}

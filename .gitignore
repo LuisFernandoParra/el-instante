@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+.claude
+
+# Generado por scripts/generate-images.mjs
+public/images/opt
+src/data/generated

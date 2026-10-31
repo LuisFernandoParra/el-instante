@@ -1,0 +1,6 @@
+dist
+node_modules
+content
+public/images
+src/data/generated
+package-lock.json

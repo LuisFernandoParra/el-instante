@@ -1,0 +1,13 @@
+{
+  "note": "Archivo añadido al montar el proyecto. latestTitle y moreLabel salen literalmente del brief; a11y son etiquetas solo para lectores de pantalla, exigidas por AA. No estaban en los archivos originales: revísalas.",
+  "latestTitle": "Últimas noticias",
+  "moreLabel": "Más",
+  "a11y": {
+    "skipToContent": "Saltar al contenido",
+    "mainNav": "Secciones",
+    "breadcrumb": "Ruta de navegación",
+    "related": "Notas relacionadas",
+    "footerNav": "Pie de página",
+    "social": "Redes sociales"
+  }
+}

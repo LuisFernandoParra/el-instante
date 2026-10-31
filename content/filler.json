@@ -1,0 +1,124 @@
+{
+  "note": "Títulos de relleno: se muestran pero NO son enlaces (ni clic ni foco). image rota entre relleno-1/2/3.",
+  "items": [
+    {
+      "id": "f01",
+      "category": "Regionales",
+      "title": "Alumbrado navideño atrae a cientos de familias cada noche",
+      "image": "/images/relleno-1.jpg",
+      "link": null
+    },
+    {
+      "id": "f02",
+      "category": "Cultura",
+      "title": "Novenas de aguinaldos llenan los barrios de Neiva con música y villancicos",
+      "image": "/images/relleno-2.jpg",
+      "link": null
+    },
+    {
+      "id": "f03",
+      "category": "Gente",
+      "title": "La panadería del barrio que lleva medio siglo horneando pan de Navidad",
+      "image": "/images/relleno-3.jpg",
+      "link": null
+    },
+    {
+      "id": "f04",
+      "category": "Deportes",
+      "title": "Torneo de fútbol de fin de año reúne a equipos de los barrios",
+      "image": "/images/relleno-1.jpg",
+      "link": null
+    },
+    {
+      "id": "f05",
+      "category": "Clima",
+      "title": "Calor intenso en Neiva: recomiendan hidratarse durante las jornadas de fin de año",
+      "image": "/images/relleno-2.jpg",
+      "link": null
+    },
+    {
+      "id": "f06",
+      "category": "Educación",
+      "title": "Colegios cierran el año con ceremonias de grado y muestras de arte",
+      "image": "/images/relleno-3.jpg",
+      "link": null
+    },
+    {
+      "id": "f07",
+      "category": "Gastronomía",
+      "title": "Tamales y lechona, lo que más se vende en las mesas huilenses en diciembre",
+      "image": "/images/relleno-1.jpg",
+      "link": null
+    },
+    {
+      "id": "f08",
+      "category": "Salud",
+      "title": "Recomiendan cuidar los alimentos en las cenas de fin de año",
+      "image": "/images/relleno-2.jpg",
+      "link": null
+    },
+    {
+      "id": "f09",
+      "category": "Regionales",
+      "title": "Artesanos del Huila exhiben sus trabajos en la temporada de fin de año",
+      "image": "/images/relleno-3.jpg",
+      "link": null
+    },
+    {
+      "id": "f10",
+      "category": "Economía",
+      "title": "Lo que dejó el año en el comercio de Neiva",
+      "image": "/images/relleno-1.jpg",
+      "link": null
+    },
+    {
+      "id": "f11",
+      "category": "Regionales",
+      "title": "Cómo se vive el fin de año en las veredas de Neiva",
+      "image": "/images/relleno-2.jpg",
+      "link": null
+    },
+    {
+      "id": "f12",
+      "category": "Gente",
+      "title": "Jóvenes neivanos preparan la despedida del año en plazas y parques",
+      "image": "/images/relleno-3.jpg",
+      "link": null
+    },
+    {
+      "id": "f13",
+      "category": "Gente",
+      "title": "Una ciudad que se despide del año entre luces y música",
+      "image": "/images/relleno-1.jpg",
+      "link": null
+    },
+    {
+      "id": "f14",
+      "category": "Economía",
+      "title": "Los mercados de Neiva se llenan de frutas y flores para la temporada",
+      "image": "/images/relleno-2.jpg",
+      "link": null
+    },
+    {
+      "id": "f15",
+      "category": "Economía",
+      "title": "Consejos para viajar en familia durante la temporada de vacaciones",
+      "image": "/images/relleno-3.jpg",
+      "link": null
+    },
+    {
+      "id": "f16",
+      "category": "Regionales",
+      "title": "El río Magdalena, protagonista del paisaje de la ciudad en las vacaciones",
+      "image": "/images/relleno-1.jpg",
+      "link": null
+    },
+    {
+      "id": "f17",
+      "category": "Regionales",
+      "title": "Preparativos para el cierre de año en los barrios de Neiva",
+      "image": "/images/relleno-2.jpg",
+      "link": null
+    }
+  ]
+}

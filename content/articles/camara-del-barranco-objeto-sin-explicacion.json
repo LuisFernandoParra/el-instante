@@ -1,0 +1,63 @@
+{
+  "slug": "camara-del-barranco-objeto-sin-explicacion",
+  "section": "la-camara-destruida",
+  "headline": "La cámara del barranco: lo que se sabe del objeto que nadie logra explicar",
+  "dek": "Sin marca, sin número de serie y partida por el golpe, así es la cámara que apareció entre los restos del carro tras el accidente de Nochebuena en Neiva.",
+  "author": "Redacción El Instante",
+  "publishedAt": "2007-12-28",
+  "heroImage": "/images/camara.jpg",
+  "heroAlt": "Una cámara fotográfica análoga negra, sin marca, partida en dos, con el lente suelto, sobre una mesa de metal gris con una etiqueta de evidencia en blanco.",
+  "heroCaption": "La cámara hallada entre los restos del vehículo.",
+  "heroCredit": "Foto: El Instante",
+  "body": [
+    {
+      "type": "p",
+      "text": "Cuatro días después del accidente de Nochebuena en Neiva, sigue sin respuesta una pregunta: de quién era la cámara destruida que apareció entre los restos del carro."
+    },
+    {
+      "type": "p",
+      "text": "Es una cámara fotográfica negra, sin marca ni inscripción visible. El golpe la partió y dejó el lente y la carcasa sueltos."
+    },
+    {
+      "type": "p",
+      "text": "Un técnico consultado por El Instante, que revisó fotografías del objeto, dijo que no tiene número de serie y que no se parece a ningún fabricante conocido."
+    },
+    {
+      "type": "quote",
+      "text": "He visto cámaras de todas las épocas. Esta no coincide con ninguna."
+    },
+    {
+      "type": "p",
+      "text": "Una vecina del sector, Marta Lozano, dijo que antes del golpe vio algo más. Según ella, una luz blanca iluminó el barranco por un instante."
+    },
+    {
+      "type": "quote",
+      "text": "Fue una luz muy fuerte, como un flash. Y se apagó enseguida."
+    },
+    {
+      "type": "p",
+      "text": "Ni los registros ni las personas cercanas a la familia consultadas por este medio dan cuenta de dónde salió la cámara. Las autoridades no han explicado qué hacía en el carro."
+    },
+    {
+      "type": "p",
+      "text": "El objeto sigue bajo custodia y nadie lo ha reclamado. Claudia, la madre de la familia, habló con El Instante sobre el caso.",
+      "link": {
+        "slug": "claudia-salieron-por-veinte-minutos",
+        "label": "Leer la entrevista"
+      }
+    }
+  ],
+  "tags": [
+    "La cámara destruida",
+    "Neiva"
+  ],
+  "related": {
+    "A": [
+      "tragedia-en-nochebuena-carro-barranco-neiva"
+    ],
+    "B": [
+      "claudia-salieron-por-veinte-minutos",
+      "f01"
+    ]
+  }
+}

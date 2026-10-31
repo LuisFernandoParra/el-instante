@@ -1,0 +1,157 @@
+{
+  "primary": [
+    {
+      "slug": "el-accidente",
+      "name": "El accidente",
+      "real": true
+    },
+    {
+      "slug": "la-camara-destruida",
+      "name": "La cámara destruida",
+      "real": true
+    },
+    {
+      "slug": "la-mama",
+      "name": "La mamá",
+      "real": true
+    },
+    {
+      "slug": "regionales",
+      "name": "Regionales",
+      "real": false
+    },
+    {
+      "slug": "gente",
+      "name": "Gente",
+      "real": false
+    },
+    {
+      "slug": "cultura",
+      "name": "Cultura",
+      "real": false
+    },
+    {
+      "slug": "deportes",
+      "name": "Deportes",
+      "real": false
+    },
+    {
+      "slug": "economia",
+      "name": "Economía",
+      "real": false
+    }
+  ],
+  "secondary": [
+    {
+      "slug": "clima",
+      "name": "Clima",
+      "real": false
+    },
+    {
+      "slug": "educacion",
+      "name": "Educación",
+      "real": false
+    },
+    {
+      "slug": "gastronomia",
+      "name": "Gastronomía",
+      "real": false
+    },
+    {
+      "slug": "salud",
+      "name": "Salud",
+      "real": false
+    },
+    {
+      "slug": "huila",
+      "name": "Huila",
+      "real": false
+    },
+    {
+      "slug": "colombia",
+      "name": "Colombia",
+      "real": false
+    },
+    {
+      "slug": "mundo",
+      "name": "Mundo",
+      "real": false
+    },
+    {
+      "slug": "tecnologia",
+      "name": "Tecnología",
+      "real": false
+    },
+    {
+      "slug": "medio-ambiente",
+      "name": "Medio ambiente",
+      "real": false
+    },
+    {
+      "slug": "turismo",
+      "name": "Turismo",
+      "real": false
+    },
+    {
+      "slug": "música",
+      "name": "Música",
+      "real": false
+    },
+    {
+      "slug": "cine",
+      "name": "Cine",
+      "real": false
+    },
+    {
+      "slug": "libros",
+      "name": "Libros",
+      "real": false
+    },
+    {
+      "slug": "fotografia",
+      "name": "Fotografía",
+      "real": false
+    },
+    {
+      "slug": "viajes",
+      "name": "Viajes",
+      "real": false
+    },
+    {
+      "slug": "mascotas",
+      "name": "Mascotas",
+      "real": false
+    },
+    {
+      "slug": "familia",
+      "name": "Familia",
+      "real": false
+    },
+    {
+      "slug": "moda",
+      "name": "Moda",
+      "real": false
+    },
+    {
+      "slug": "ciencia",
+      "name": "Ciencia",
+      "real": false
+    },
+    {
+      "slug": "historia",
+      "name": "Historia",
+      "real": false
+    },
+    {
+      "slug": "sociedad",
+      "name": "Sociedad",
+      "real": false
+    },
+    {
+      "slug": "opinion",
+      "name": "Opinión",
+      "real": false
+    }
+  ],
+  "note": "Solo las secciones con real=true tienen página/enlace. El resto se muestra igual pero sin enlace."
+}

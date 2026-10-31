@@ -1,0 +1,65 @@
+{
+  "slug": "tragedia-en-nochebuena-carro-barranco-neiva",
+  "section": "el-accidente",
+  "headline": "Tragedia en Nochebuena: un carro cayó por un barranco en Neiva y murieron un padre y su hijo",
+  "dek": "Entre los restos del vehículo apareció una cámara destruida que, por ahora, nadie sabe explicar.",
+  "author": "Redacción El Instante",
+  "publishedAt": "2007-12-26",
+  "heroImage": "/images/accidente.jpg",
+  "heroAlt": "Un carro gris en el fondo de un barranco de tierra rojiza, al anochecer, con linternas de socorristas a lo lejos.",
+  "heroCaption": "Lugar del accidente, en las afueras de Neiva.",
+  "heroCredit": "Foto: El Instante",
+  "body": [
+    {
+      "type": "p",
+      "text": "En la noche del 24 de diciembre, un carro cayó por un barranco en las afueras de Neiva. En el accidente murieron el padre y su hijo, un niño de 4 años. Claudia, la madre, no iba en el vehículo."
+    },
+    {
+      "type": "p",
+      "text": "Las víctimas son Andrés Ibarra, arqueólogo de 34 años, y su hijo Fernando, de 4. Los dos habían salido de su casa en el carro poco antes de las 6:40 p. m., cuando ocurrió el accidente."
+    },
+    {
+      "type": "p",
+      "text": "El vehículo se salió de la vía y rodó por el barranco hasta el fondo. Las autoridades no han establecido cómo ocurrió. No hay otros vehículos involucrados."
+    },
+    {
+      "type": "p",
+      "text": "Los organismos de socorro llegaron al lugar minutos después del aviso de los vecinos. Los dos ocupantes ya habían muerto cuando fueron alcanzados."
+    },
+    {
+      "type": "quote",
+      "text": "Se escuchó un golpe seco y después nada. Cuando bajamos, el carro estaba destrozado.",
+      "attribution": "Así lo contó Jorge Cardoso, vecino del sector, que fue de los primeros en llegar."
+    },
+    {
+      "type": "p",
+      "text": "Entre los restos apareció una cámara fotográfica negra, sin ninguna marca, destruida. Nadie ha podido explicar de quién era ni cómo llegó al carro."
+    },
+    {
+      "type": "quote",
+      "text": "Lo que había en ese carro no tiene explicación. Y no es lo único que no la tiene.",
+      "attribution": "Es lo que dijo uno de los socorristas que participó en el rescate, que pidió no ser identificado."
+    },
+    {
+      "type": "p",
+      "text": "Claudia habló con El Instante. Su versión de lo ocurrido, y de lo que nadie le explicó, está en la entrevista. El Instante sigue el caso.",
+      "link": {
+        "slug": "claudia-salieron-por-veinte-minutos",
+        "label": "Leer la entrevista"
+      }
+    }
+  ],
+  "tags": [
+    "El accidente",
+    "Neiva"
+  ],
+  "related": {
+    "A": [
+      "camara-del-barranco-objeto-sin-explicacion"
+    ],
+    "B": [
+      "claudia-salieron-por-veinte-minutos",
+      "f01"
+    ]
+  }
+}

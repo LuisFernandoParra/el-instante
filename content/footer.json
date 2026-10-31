@@ -1,0 +1,151 @@
+{
+  "columns": [
+    {
+      "title": "Nuestras secciones",
+      "links": [
+        {
+          "label": "El accidente",
+          "href": "section"
+        },
+        {
+          "label": "La cámara destruida",
+          "href": "section"
+        },
+        {
+          "label": "La mamá",
+          "href": "section"
+        },
+        {
+          "label": "Regionales",
+          "href": null
+        },
+        {
+          "label": "Gente",
+          "href": null
+        },
+        {
+          "label": "Cultura",
+          "href": null
+        },
+        {
+          "label": "Deportes",
+          "href": null
+        },
+        {
+          "label": "Economía",
+          "href": null
+        },
+        {
+          "label": "Clima",
+          "href": null
+        },
+        {
+          "label": "Educación",
+          "href": null
+        },
+        {
+          "label": "Gastronomía",
+          "href": null
+        },
+        {
+          "label": "Salud",
+          "href": null
+        },
+        {
+          "label": "Huila",
+          "href": null
+        },
+        {
+          "label": "Colombia",
+          "href": null
+        }
+      ]
+    },
+    {
+      "title": "Acerca de El Instante",
+      "links": [
+        {
+          "label": "Quiénes somos",
+          "href": null
+        },
+        {
+          "label": "Política editorial",
+          "href": null
+        },
+        {
+          "label": "Equipo",
+          "href": null
+        },
+        {
+          "label": "Términos y condiciones",
+          "href": null
+        },
+        {
+          "label": "Política de datos",
+          "href": null
+        },
+        {
+          "label": "Mapa del sitio",
+          "href": null
+        },
+        {
+          "label": "Preguntas frecuentes",
+          "href": null
+        },
+        {
+          "label": "Archivo",
+          "href": null
+        },
+        {
+          "label": "Publicidad",
+          "href": null
+        }
+      ],
+      "badges": [
+        {
+          "label": "Insignia 1"
+        },
+        {
+          "label": "Insignia 2"
+        }
+      ],
+      "badgesNote": "Dos insignias neutras (cajas con trazo simple), no logos de entidades reales."
+    },
+    {
+      "title": "Contáctenos",
+      "links": [
+        {
+          "label": "Escríbenos",
+          "href": null
+        },
+        {
+          "label": "Trabaja con nosotros",
+          "href": null
+        },
+        {
+          "label": "Anuncia con nosotros",
+          "href": null
+        },
+        {
+          "label": "Cookies",
+          "href": null
+        }
+      ],
+      "hours": "Atención de lunes a viernes, de 8:00 a. m. a 5:00 p. m."
+    }
+  ],
+  "social": [
+    "Facebook",
+    "X",
+    "Instagram",
+    "TikTok",
+    "YouTube",
+    "Google"
+  ],
+  "socialNote": "Iconos sin enlace.",
+  "privacyLink": {
+    "label": "Aviso de privacidad",
+    "href": null
+  },
+  "coreWorkFooter": "Para más información, click aquí"
+}

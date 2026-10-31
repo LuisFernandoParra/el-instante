@@ -1,0 +1,20 @@
+{
+  "note": "Columnistas ficticios, sin enlace.",
+  "items": [
+    {
+      "id": "o1",
+      "author": "Ricardo Salcedo",
+      "title": "El diciembre que cambió de ritmo"
+    },
+    {
+      "id": "o2",
+      "author": "Luz Marina Cortés",
+      "title": "Lo que se despide con el año"
+    },
+    {
+      "id": "o3",
+      "author": "Hernando Vargas",
+      "title": "Cartas desde el barrio"
+    }
+  ]
+}

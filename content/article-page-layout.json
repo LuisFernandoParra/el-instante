@@ -1,0 +1,47 @@
+{
+  "note": "Estructura de la nota copiada de la referencia. Las posiciones A y B toman las notas reales indicadas en cada artículo (campo related).",
+  "relatedA": {
+    "afterParagraph": 2,
+    "items": 1,
+    "format": "solo título"
+  },
+  "relatedB": {
+    "afterParagraph": 5,
+    "items": 2,
+    "format": "solo título; 1 real + f01"
+  },
+  "relatedC": {
+    "separator": "* * *",
+    "items": 10,
+    "format": "categoría + título",
+    "fillerIds": [
+      "f02",
+      "f03",
+      "f04",
+      "f05",
+      "f06",
+      "f07",
+      "f08",
+      "f09",
+      "f10",
+      "f11"
+    ]
+  },
+  "moreStories": {
+    "title": "Le puede interesar",
+    "items": 6,
+    "fillerIds": [
+      "f16",
+      "f12",
+      "f17",
+      "f14",
+      "f13",
+      "f15"
+    ]
+  },
+  "tagsTitle": "Ver más",
+  "breadcrumb": [
+    "Inicio",
+    "<sección de la nota>"
+  ]
+}
